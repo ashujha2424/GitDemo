@@ -7,6 +7,8 @@ import org.testng.annotations.Test;
 		@Test
 		public void seleniumTest1() {
 			System.out.println("hello selenium");
+			System.out.println("change by us person");
 		}
+		
 		
 }
