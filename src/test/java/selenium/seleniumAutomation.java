@@ -1,10 +1,12 @@
 package selenium;
 
-public class seleniumAutomation {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
-
+	public class seleniumAutomation {
+		
+		@Test
+		public void seleniumTest1() {
+			System.out.println("hello selenium");
+		}
+		
 }
