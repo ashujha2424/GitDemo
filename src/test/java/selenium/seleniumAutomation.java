@@ -10,6 +10,7 @@ import org.testng.annotations.Test;
 			System.out.println("change by us person");
 			System.out.println("changes in develop branch");
 			System.out.println("changes in develop branch by asian person");
+			System.out.println("adding command after merging");
 		}
 		
 		
